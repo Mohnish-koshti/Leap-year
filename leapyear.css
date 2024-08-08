@@ -1,0 +1,39 @@
+.card{
+    width: 18rem;
+    margin: auto;
+    margin-top: 5%;
+}
+.form-control{
+    width: 200px;
+    padding-left: 75px;
+    color: #06038D;
+    border: 2px solid #05038dc9;
+}
+input{
+    margin: auto;
+    
+}
+#res{
+    padding-left: 5%
+}
+.card-header{
+    background-color: rgba(255, 102, 31, 0.815);
+    color: white;
+}
+.card-footer{
+    background-color: rgba(4, 106, 57, 0.815);
+    color: white;
+}
+.card-title{
+    color: #06038D;
+    color: red;
+}
+h6{
+    color: #06038D;
+}
+.mb-3{
+    color: #06038D;
+}
+.btn{
+    background-color: #05038dc9;
+}
